@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sadahide",
  "yomi": "まつだたんごのかみたいらのさだひでしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "室町時代",
+  "author": "松田貞秀",
+  "desc": "室町幕府に仕えた松田丹後守平貞秀の家集。聖護院五十首の詠などを収め、新後拾遺集に入った歌の注記もある。"
+ },
  "editions": [
   {
    "pid": "936505",
